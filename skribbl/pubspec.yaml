@@ -1,0 +1,42 @@
+name: skribbl
+description: A new Flutter project.
+
+version: 1.0.1+2
+
+environment:
+  sdk: ">=2.16.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  google_fonts: ^2.3.1
+  flutter_native_splash: ^2.0.2
+
+  firebase_core: ^1.12.0
+  firebase_auth: ^3.3.6
+  google_sign_in: ^5.2.3
+  sign_in_with_apple: ^3.3.0
+  get_it: ^7.2.0
+  http: ^0.13.4
+  socket_io_client: ^2.0.0-beta.4-nullsafety.0
+  go_router: ^3.0.1
+  equatable: ^2.0.3
+  url_launcher: ^6.0.20
+  flutter_colorpicker: ^1.0.3
+  flutter_riverpod: ^1.0.3
+  wakelock: ^0.6.1+2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/

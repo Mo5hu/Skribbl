@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>938696040570-lobut1mekhv5s280be6mesvd0rrcqr6s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.938696040570-lobut1mekhv5s280be6mesvd0rrcqr6s</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>938696040570-iqik361ompuvkf3svc9jl12secbqp0se.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDCDvyeZw64JFG7n0Z5F6Gwxu-7I35LpXc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>938696040570</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.telicsolutions.skribbl</string>
+	<key>PROJECT_ID</key>
+	<string>skribbl-flutter</string>
+	<key>STORAGE_BUCKET</key>
+	<string>skribbl-flutter.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:938696040570:ios:875879bed599221fce9bc3</string>
+</dict>
+</plist>
